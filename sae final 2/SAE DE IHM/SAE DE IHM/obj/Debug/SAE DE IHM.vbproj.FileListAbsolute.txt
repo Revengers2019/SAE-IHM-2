@@ -1,0 +1,73 @@
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.AssemblyReference.cache
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmJeu.resources
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmAccueil.resources
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.Resources.resources
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.GenerateResource.cache
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.CoreCompileInputs.cache
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe.config
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.pdb
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.xml
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.xml
+Z:\SAE IHM FINAL\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.pdb
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe.config
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.pdb
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.xml
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.AssemblyReference.cache
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmJeu.resources
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmAccueil.resources
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.Resources.resources
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.GenerateResource.cache
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.CoreCompileInputs.cache
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.xml
+Z:\SAE IHM FINAL 1\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.pdb
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe.config
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.pdb
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.xml
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.AssemblyReference.cache
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmJeu.resources
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.Resources.resources
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.GenerateResource.cache
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.CoreCompileInputs.cache
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.xml
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.pdb
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmScores.resources
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmAccueil.resources
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmThemes.resources
+Z:\la SAE Qui marche bien en indice et tout\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmFastFood.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe.config
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.pdb
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.xml
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.AssemblyReference.cache
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmAccueil.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmScores.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmJeu.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmThemes.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.Resources.resources
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.GenerateResource.cache
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.CoreCompileInputs.cache
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.xml
+Z:\LA SAE FINAL QUI MARCHE\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.pdb
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe.config
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.exe
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.pdb
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\bin\Debug\SAE DE IHM.xml
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.AssemblyReference.cache
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe.config
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmAccueil.resources
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmScores.resources
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmJeu.resources
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.frmThemes.resources
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE_DE_IHM.Resources.resources
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.GenerateResource.cache
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.exe
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.xml
+C:\Users\Ethanmk\Documents\sae final 2\SAE DE IHM\SAE DE IHM\obj\Debug\SAE DE IHM.pdb
